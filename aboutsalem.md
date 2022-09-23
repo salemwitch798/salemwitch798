@@ -1,0 +1,5 @@
+- 👋 Hi, I’m salem
+- 👀 I’m interested in coding and music
+- 🌱 I’m currently learning javascript
+- 💞️ I’m looking to collaborate on javascript projects
+- 📫 How to reach me discord Salem#5025
